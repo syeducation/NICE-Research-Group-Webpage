@@ -16,24 +16,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include....
 
-# Interests to show in About widget
-interests:
-  - Psychology
-  - Other stuff
-  - More stuff
-
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Developmental Psychology
+      institution: University of California, Santa Cruz
+    - course: MA in Developmental Psychology
+      institution: San Francisco State University
+    - course: BA in Psychology
+      institution: San Francisco State University
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -45,23 +36,23 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/syeducation
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=mshMvCwAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/syeducation
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.youtube.com/channel/UCmoJslBuvfm4V-wzvBCenjg
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: https://docs.google.com/document/d/1eGtccGz_RVpnvEiyWyq9joM6RvCOx8ukquzd2v45b3o/edit
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -70,8 +61,6 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am a cultural developmental psychologist with broad interests in identity and personality development among adolescents and emerging adults from diverse ethnic, racial, and cultural backgrounds. Historically my work has focused on 1) how individuals’ identities, represented via personal narratives, interface with culturally-available master narratives, and 2) how youth integrate their multiple identities, with an emphasis on how ethnic identity intersects with other identity domains (e.g., gender, sexuality, education). In the last several years my research program has focused primarily on methods and practices used in psychology within the broad framework of open science and meta-psychology (research on how psychology operates as an academic discipline), especially in the context of developmental and ethnic minority psychology.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
